@@ -1,0 +1,22 @@
+{
+  "name": "intronodejs",
+  "version": "0.9.0",
+  "description": "Consultar Temp Ciudad Bogotacuando haga la petición.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcelaCanaria/IntroNodeJS.git"
+  },
+  "author": "marcelacb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcelaCanaria/IntroNodeJS/issues"
+  },
+  "homepage": "https://github.com/MarcelaCanaria/IntroNodeJS#readme",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
